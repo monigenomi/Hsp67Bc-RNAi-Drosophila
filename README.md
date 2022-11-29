@@ -1,8 +1,12 @@
-# Analysis of the data form master thesis: 
+# Master thesis: Effects of tissue-specific knockdown of Hsp67Bc in *Drosophila melanogaster*
 
-Repository contatins Methodology of data analysis, which was used in master thesis perforemd in Animal Development Department at the Wrocław Uniwersity in Poland. Description, methodology and data from experiments will be available in master thesis content (will be available in 2020). Notebooks with analysis contain data generated randomly or changed. 
+Repository contatins master thesis in pdf, methodology of data analysis, which was perforemd in Animal Development Department at the Wrocław Uniwersity in Poland in 2019
 
-**This repository contains randomly generated data** (to avoid copyright issues) in csv files in folder "data" (seperate csv file for each experiment). Data has the same table structure as real data from experiments. Cropped samples of images are in folder "images". 
+Author: Monika Krzyżanowska
+Supervisor: PhD Magda Dubińska-Magiera
+
+Master thesis: 'UWr-25-270882-2019.pdf'
+Data anlysis: jupyter notebooks
 
 ## Installation
 
@@ -12,7 +16,15 @@ All scripts contain filepaths optimized for macOS or Linux and will not be work 
 
 ## Experiments
 
-Repository contains noteboks with data analysis. Each notebook works on a data from following experiments: behavioral tests, contractility tests, morphometric characterisation of neuromuscular junctions and oxyblot. Additionally 2 notebooks contatin calibration of the measurement method: BCA protein concentration measurement and NanoDrop nucleic acid concentration measurement and both of them are in Polish language. 
+Repository contains noteboks with data analysis. Each notebook works on a data from following experiments:
+- behavioral tests
+- contractility tests
+- morphometric characterisation of neuromuscular junctions
+- oxyblot. 
+
+Additionally 2 notebooks contatin calibration of the measurement method (both of them are in Polish language): 
+- BCA protein concentration measurement
+- NanoDrop nucleic acid concentration measurement
 
 
 ### Contractility tests
