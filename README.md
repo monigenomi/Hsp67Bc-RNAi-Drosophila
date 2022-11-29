@@ -3,9 +3,11 @@
 Repository contatins master thesis in pdf, methodology of data analysis, which was perforemd in Animal Development Department at the Wrocław Uniwersity in Poland in 2019
 
 Author: Monika Krzyżanowska
+
 Supervisor: PhD Magda Dubińska-Magiera
 
 Master thesis: 'UWr-25-270882-2019.pdf'
+
 Data anlysis: jupyter notebooks
 
 ## Installation
